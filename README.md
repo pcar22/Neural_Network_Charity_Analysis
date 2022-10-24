@@ -12,7 +12,7 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
     - I am using the 'Is_Successful' as the target for our model.
     - After dropping 'EIN', 'NAME' AND 'IS_SUCCESSFUL', the remaining columns will be our features
 
-    ![drop_ein_name.png]()
+    ![drop_ein_name.png](https://github.com/pcar22/Neural_Network_Charity_Analysis/blob/main/Resources/drop_ein_name.png)
 
 - Compiling, Training, and Evaluating the Model
     - The first attempt I used 2 hidden layers, 30 neurons in the 1st layer and 10 in the 2nd layer. The activations were 'relu' for the inputs and 'sigmoid' for the output.
@@ -23,11 +23,11 @@ I did not achieve the target model performance.
 
 The steps taken to try and increase performance are listed above.
 
-![first_attempt.png]()
+![first_attempt.png](https://github.com/pcar22/Neural_Network_Charity_Analysis/blob/main/Resources/first_attempt.png)
 
-![second_attempt.png]()
+![second_attempt.png](https://github.com/pcar22/Neural_Network_Charity_Analysis/blob/main/Resources/second_attempt.png)
 
-![third_attempt.png]()
+![third_attempt.png](https://github.com/pcar22/Neural_Network_Charity_Analysis/blob/main/Resources/third_attempt.png)
 
 
 ## Summary
